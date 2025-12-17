@@ -3,6 +3,7 @@ import { ShopContext } from "../context/ShopContext.jsx";
 import { assets } from "../assets/assets.js";
 import Title from "../components/Title.jsx";
 import ProductItem from "../components/ProductItem.jsx";
+import ProductItem from "../components/Productitem.jsx";
 
 
 const Collection = () => {
